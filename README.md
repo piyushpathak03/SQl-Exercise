@@ -1,4 +1,5 @@
 # SQl-Exercise
+SQL stands for Structured Query Language. It is designed for managing data in a relational database management system (RDBMS). It is pronounced as S-Q-L or sometime See-Qwell. SQL is a database language, it is used for database creation, deletion, fetching rows, and modifying rows, etc
 
 ## About me
 
